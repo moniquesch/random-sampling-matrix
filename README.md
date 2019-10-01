@@ -5,4 +5,4 @@ A software for Windows developed in Python to randomly sample a matrix. The soft
 Execute the file: .\random-sampling-matrix\dist\main\main.exe
 
 # Example
-(https://raw.githubusercontent.com/moniquesch/random-sampling-matrix/master/example.jpg)
+![example](https://raw.githubusercontent.com/moniquesch/random-sampling-matrix/master/example.jpg)
